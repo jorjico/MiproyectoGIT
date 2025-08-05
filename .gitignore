@@ -5,3 +5,7 @@
 # Ignorar carpeta imagenes
 /imagenes/
 
+
+# Ignorar un fichero
+
+README.txt
